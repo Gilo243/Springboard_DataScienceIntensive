@@ -1,0 +1,5 @@
+.ipynb_checkpoints/**
+data/**
+*.html
+*.png
+.DS_Store
